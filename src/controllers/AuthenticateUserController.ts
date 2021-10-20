@@ -9,3 +9,4 @@ class AuthenticateUserController{
     return response.json(result);
   }
 }
+export {AuthenticateUserController}
